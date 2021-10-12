@@ -1,0 +1,30 @@
+Change Log
+==========
+
+0.0.1(25/09/2021)
+-----------------
+- Create package
+
+0.0.2(25/09/2021)
+------------------
+- Create Changelog
+- Update README.md
+
+0.0.3(25/09/2021)
+------------------
+- Update README.md
+
+0.0.4(26/09/2021)
+------------------
+- Update __init__.py
+- Update jsonops.py
+- Update setup
+
+0.1.1(28/09/2021)
+------------------
+- Update jsonops.py
+- Update __init__.py
+
+0.1.2(12/10/2021)
+------------------
+- Update docstrings
