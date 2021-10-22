@@ -1,6 +1,6 @@
 import setuptools
 
-VERSION = "0.1.2"
+VERSION = "0.1.3"
 DESCRIPTION = "Do simple operations for files easier"
 with open("README.md", "r", encoding="utf-8") as f:
     LONG_DESCRIPTION = f.read()
